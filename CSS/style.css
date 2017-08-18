@@ -1,0 +1,234 @@
+body{
+	padding: 0 !important;
+	margin: 0 !important;
+	background-color: #fff;
+}
+.navbar-default{
+	padding-bottom: 20px;
+	margin-bottom: 0px !important;
+}
+.navbar-header{
+	margin-top: 20px;
+	padding: 0 0 40px 30px;
+	/*padding-bottom: 0 0 40 0px; */
+}
+.nav_name{
+	color: #EF703A;
+}
+.navbar-nav{
+	padding-top: 20px;
+	display: block;
+}
+.fa:hover{
+		color: #EF703A;
+
+	}
+.text-1{
+	margin: 50px 0 10px 0;
+}
+.icon_list{
+	height: 120px;
+	margin-left: 50px;
+	background-color: #ccc;
+}
+.icon-home{
+	height: 120px;
+	width: 159.6px;
+	padding-left: 30px;
+	padding-top: 20px;	
+	display: inline-block;
+}
+.menu li{
+	display: inline-block; 
+}	
+.icon-home:hover, .icon-home:active{
+	background-color: #EF703A;
+}
+.active{
+	background-color: #EF703A;
+}
+/*.icon-home:hover, .home:active{
+	background-color: #EF703A;
+}*/
+
+.col-sm-6{
+	background-color:#fff;
+}
+.col-sm-3{
+	background-color:#fff;
+}
+.col-sm-3{
+	background-color:#fff;
+}
+.col1{
+	background-color: #F4F4F4;
+}
+.col2{
+	background-color: #F4F4F4;
+}
+.col3{
+	background-color: #F4F4F4;
+}
+.col1-header1{
+	font-family: 'Roboto', sans-serif;
+	padding-top: 15px;
+	padding-left: 5px;
+	font-size: 22px;
+	padding-right: 140px;
+}
+.col2-header2{
+	font-family: 'Roboto', sans-serif;
+	padding-top: 15px;
+	padding-left: 5px;
+	font-size: 22px;
+	padding-right: 140px;
+}
+.col3-header3{
+	font-family: 'Roboto', sans-serif;
+	padding-top: 15px;
+	padding-left: 5px;
+	font-size: 22px;
+	padding-right: 100px;
+}
+.col1-para1{
+	font-family: 'Source Sans Pro', sans-serif;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 30px;
+}
+.col2-para2{
+	font-family: 'Source Sans Pro', sans-serif;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 30px;
+}
+.col3-para3{
+	font-family: 'Source Sans Pro', sans-serif;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 30px;
+}
+.col3-1{
+	background-color: #fff;
+	padding-top: 30px;
+}
+.col3-2{
+	background-color: #fff;
+	padding-top: 30px;
+}
+.col3-3{
+	background-color: #fff;
+	padding-top: 30px;
+}
+.col3-4{
+	background-color: #fff;
+	padding-top: 30px;
+}
+.col3-1-header{
+	font-family: 'Roboto', sans-serif;	
+}
+.col3-2-header{
+	font-family: 'Roboto', sans-serif;	
+}
+.col3-3-header{
+	font-family: 'Roboto', sans-serif;	
+}
+.col3-4-header{
+	font-family: 'Roboto', sans-serif;	
+}
+.col3-1 ul{
+	list-style: none;
+	text-decoration:underline;
+}
+.col3-2 ul{
+	list-style: none;
+	text-decoration:underline;
+}
+.col3-3 ul{
+	list-style: none;
+	text-decoration:underline;
+}
+.col3-4 ul{
+	list-style: none;
+	text-decoration:underline;
+}
+.col3-1 ul li:before{
+	content: "\f111";
+    font-family: FontAwesome;
+    font-size: 7px;
+    color: red; 
+    padding-right: 5px;
+}
+.col3-2 ul li:before{
+	content: "\f111";
+    font-family: FontAwesome;
+    font-size: 7px;
+    color: red; 
+    padding-right: 5px;
+}
+.col3-3 ul li:before{
+	content: "\f111";
+    font-family: FontAwesome;
+    font-size: 7px;
+    color: red; 
+    padding-right: 5px;
+}
+.col3-4 ul li:before{
+	content: "\f111";
+    font-family: FontAwesome;
+    font-size: 7px;
+    color: red; 
+    padding-right: 5px;
+}
+.panel-default{
+	margin-left: 30px;
+	margin-top: 20px;
+	height: 140px;
+}
+.footer{
+	list-style: none;
+}
+.footer li{
+	display: inline-block;
+	float: right;
+}
+.slider-div{
+	border: 1px solid;
+	height: 20px;
+}
+.container {
+    border: 1px solid;
+    position:relative;
+    opacity: 0.3;
+}
+.tag {
+    float: left;
+    position: absolute;
+    left: 10px;
+    top: 250px;
+    height: 120px;
+    width: 1400px;
+    background-color:rgb(211, 211, 211);
+    opacity: 0.6;
+}
+.tag-head{
+	font-family: 'Roboto', sans-serif;
+	color: rgba(0, 0, 0, 1);
+	width:550px;
+}
+.tag-head-span{
+	font-family: 'Source Sans Pro', sans-serif;
+	color:rgba(255, 0, 0, 1);
+	font-style: italic;
+	font-size: 38px;
+}
+.tag-body{
+	width:250px;
+	height: 60px;
+	margin-left: 500px;
+	margin-bottom: 80px;
+	color: #fff;
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 20px;
+	background-color: rgba(255, 45, 0, 1);
+}
